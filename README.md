@@ -2,7 +2,9 @@
 Setting up an html page
 
 # Learnings
-- Adding a local repo to GitHub
-- Basic HTML boilerplate (and the Visual Studio Code shortcut to set this up automatically: "!")
-- Basic HTML tags
-- HTML lists - ordered and unordered
+<ul>
+<li>Adding a local repo to GitHub</li>
+<li>Basic HTML boilerplate (and the Visual Studio Code shortcut to set this up automatically: "!")</li>
+<li>Basic HTML tags</li>
+<li>HTML lists - ordered and unordered</li>
+</ul>
